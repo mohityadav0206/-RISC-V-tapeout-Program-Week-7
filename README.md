@@ -10,11 +10,13 @@ VSDBabySoC is a small yet powerful RISCV-based SoC. The main purpose of designin
 <img width="2270" height="1260" alt="image" src="https://github.com/user-attachments/assets/8c718dee-919b-424d-9f3e-5f5e54f56cb1" />
 ### OpenROAD
 git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts
+
 ![505649862-56dd2d00-0e82-43c6-afdb-0d47c318d398](https://github.com/user-attachments/assets/f3abc1c3-9082-4b0c-8cb2-d9428712c425)
 
 cd OpenROAD-flow-scripts
 
 sudo ./setup.sh
+
 ![505649547-24911343-2ccc-4956-bb96-0e5e781b44e7](https://github.com/user-attachments/assets/4e5c26b9-b919-4d57-8c16-d740ca0eb092)
 <img width="838" height="533" alt="unnamed" src="https://github.com/user-attachments/assets/f279b024-1dc9-4e3d-82d3-ef8b055fbe09" />
 
